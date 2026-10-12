@@ -1,4 +1,4 @@
-<p align="center">✳</p>
+<p align="center">✳︎</p>
 
 <h1 align="center">Ana Paula Pinno</h1>
 
